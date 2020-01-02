@@ -1,0 +1,4 @@
+INFO[2020-01-02 17:43:12,030] [main] book.second.log.TestLogger.main(18) | hello world info
+DEBUG[2020-01-02 17:43:12,032] [main] book.second.log.TestLogger.main(19) | this is debug message
+WARN[2020-01-02 17:43:12,032] [main] book.second.log.TestLogger.main(20) | this is warn message
+ERROR[2020-01-02 17:43:12,034] [main] book.second.log.TestLogger.main(21) | this is error message
